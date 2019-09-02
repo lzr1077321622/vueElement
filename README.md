@@ -16,3 +16,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 
+##### 首页：
+
+ <img src="https://github.com/lzr1077321622/img/blob/master/1.png" />
