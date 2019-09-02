@@ -30,7 +30,7 @@ npm run build
 
 ##### ios下载：
 
- <img src="http://images.uileader.com/20180113/d377d04a-4dc1-4e8c-8ed8-a5d46ce7e41f.png" />
+ <img src="http://pic25.nipic.com/20121117/9252150_165726249000_2.jpg" />
 
 如果在ios下，打开应用时，提示未受信任的企业级开发者，查看 <a herf="http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust" target="_blank">http://www.uileader.com/touchui_doc/quickstart/iosPublish/trust</a>
 
@@ -40,7 +40,7 @@ npm run build
 
 ##### 安卓下载：
 
- <img src="http://images.uileader.com/20180115/6b6457e8-74b8-4e31-b643-ef43991eacc4.png" />
+ <img src="http://pic25.nipic.com/20121117/9252150_165726249000_2.jpg" />
 
 
 
@@ -48,5 +48,5 @@ npm run build
 
 ##### 实际效果截图:
 
-<img src="https://github.com/uileader/touchui/blob/master/banner2.png" />
+<img src="http://pic25.nipic.com/20121117/9252150_165726249000_2.jpg" />
 
